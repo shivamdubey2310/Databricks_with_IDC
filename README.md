@@ -19,7 +19,7 @@ This repository tracks my **daily progress, learnings, and hands-on work** for t
 |-----|--------------|--------|-------------------|
 | Day 1 | Platform Setup & First Steps | ✅ | [Notebook](Daily_progress/Day_1.ipynb) |
 | Day 2 | Apache Spark Fundamentals | ✅ | [Notebook](Daily_progress/Day_2.ipynb) |
-| Day 3 | PySpark Transformations Deep Dive |  |  |
+| Day 3 | PySpark Transformations Deep Dive | ✅ | [Notebook](Daily_progress/Day_3.ipynb) |
 | Day 4 | Delta Lake Introduction |  |  |
 | Day 5 | Delta Lake Advanced |  |  |
 | Day 6 | Medallion Architecture |  |  |
