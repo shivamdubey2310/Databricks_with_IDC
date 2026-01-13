@@ -21,7 +21,7 @@ This repository tracks my **daily progress, learnings, and hands-on work** for t
 | Day 2 | Apache Spark Fundamentals | ✅ | [Notebook](Daily_progress/Day_2.ipynb) |
 | Day 3 | PySpark Transformations Deep Dive | ✅ | [Notebook](Daily_progress/Day_3.ipynb) |
 | Day 4 | Delta Lake Introduction | ✅ | [Notebook](Daily_progress/Day_4.ipynb) |
-| Day 5 | Delta Lake Advanced |  |  |
+| Day 5 | Delta Lake Advanced | ✅ | [Notebook](Daily_progress/Day_5.ipynb) |
 | Day 6 | Medallion Architecture |  |  |
 | Day 7 | Workflows & Job Orchestration |  |  |
 | Day 8 | Unity Catalog Governance |  |  |
