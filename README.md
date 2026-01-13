@@ -22,7 +22,7 @@ This repository tracks my **daily progress, learnings, and hands-on work** for t
 | Day 3 | PySpark Transformations Deep Dive | ✅ | [Notebook](Daily_progress/Day_3.ipynb) |
 | Day 4 | Delta Lake Introduction | ✅ | [Notebook](Daily_progress/Day_4.ipynb) |
 | Day 5 | Delta Lake Advanced | ✅ | [Notebook](Daily_progress/Day_5.ipynb) |
-| Day 6 | Medallion Architecture |  |  |
+| Day 6 | Medallion Architecture | ✅ | [Notebook](Daily_progress/Day_6.ipynb) |
 | Day 7 | Workflows & Job Orchestration |  |  |
 | Day 8 | Unity Catalog Governance |  |  |
 | Day 9 | SQL Analytics & Dashboards |  |  |
