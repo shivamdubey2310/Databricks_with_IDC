@@ -23,10 +23,10 @@ This repository tracks my **daily progress, learnings, and hands-on work** for t
 | Day 4 | Delta Lake Introduction | ✅ | [Notebook](Daily_progress/Day_4.ipynb) |
 | Day 5 | Delta Lake Advanced | ✅ | [Notebook](Daily_progress/Day_5.ipynb) |
 | Day 6 | Medallion Architecture | ✅ | [Notebook](Daily_progress/Day_6.ipynb) |
-| Day 7 | Workflows & Job Orchestration |  |  |
-| Day 8 | Unity Catalog Governance |  |  |
-| Day 9 | SQL Analytics & Dashboards |  |  |
-| Day 10 | Performance Optimization |  |  |
+| Day 7 | Workflows & Job Orchestration | ✅ | [Notebook](Daily_progress/Day_7.ipynb) |
+| Day 8 | Unity Catalog Governance | ✅ | [Notebook](Daily_progress/Day_8.ipynb) |
+| Day 9 | SQL Analytics & Dashboards |  ✅ | [Notebook](Daily_progress/Day_9.ipynb) |
+| Day 10 | Performance Optimization |  ✅ | [Notebook](Daily_progress/Day_10.ipynb) |
 | Day 11 | Statistical Analysis & ML Prep |  |  |
 | Day 12 | MLflow Basics |  |  |
 | Day 13 | Model Comparison & Feature Engineering |  |  |
