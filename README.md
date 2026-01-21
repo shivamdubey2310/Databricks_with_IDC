@@ -27,9 +27,9 @@ This repository tracks my **daily progress, learnings, and hands-on work** for t
 | Day 8 | Unity Catalog Governance | ✅ | [Notebook](Daily_progress/Day_8.ipynb) |
 | Day 9 | SQL Analytics & Dashboards |  ✅ | [Notebook](Daily_progress/Day_9.ipynb) |
 | Day 10 | Performance Optimization |  ✅ | [Notebook](Daily_progress/Day_10.ipynb) |
-| Day 11 | Statistical Analysis & ML Prep |  |  |
-| Day 12 | MLflow Basics |  |  |
-| Day 13 | Model Comparison & Feature Engineering |  |  |
+| Day 11 | Statistical Analysis & ML Prep | ✅ | [Notebook](Daily_progress/Day_11.ipynb) |
+| Day 12 | MLflow Basics |  ✅ | [Notebook](Daily_progress/Day_12.ipynb) |
+| Day 13 | Model Comparison & Feature Engineering | ✅ | [Notebook](Daily_progress/Day_13.ipynb) |
 | Day 14 | AI-Powered Analytics: Genie & Mosaic AI |  |  |
 
 ---
